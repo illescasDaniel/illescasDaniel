@@ -4,7 +4,7 @@
 
 ## 👋 About me
 
-I'm a native mobile and backend developer from Madrid with nearly a decade of experience building frictionless, user-centric software. My day job is iOS (Swift, SwiftUI, UIKit, Clean/Hexagonal architectures, heavy on testing and CI/CD), and I'm just as comfortable owning the server side with Python and FastAPI. I hold a Master's degree in Artificial Intelligence, and lately most of my open-source time goes into tooling that makes coding agents more reliable: project memory, documentation, spec-driven workflows and code-navigation MCP servers. I've also shipped 4 self-published App Store apps with 100,000+ organic downloads, including [Code Reader](https://github.com/illescasDaniel/qr-code-reader-app-info), a privacy-focused QR and barcode scanner I've maintained for almost ten years.
+I'm a native mobile and backend developer from Madrid with nearly a decade of experience building frictionless, user-centric software. My day job is iOS (Swift, SwiftUI, UIKit, Clean/Hexagonal architectures, heavy on testing and CI/CD), and I'm just as comfortable owning the server side with Python and FastAPI. I hold a Master's degree in Artificial Intelligence, and lately most of my open-source time goes into tooling that makes coding agents more reliable: project memory, documentation, spec-driven workflows and code-navigation MCP servers. I've also shipped 4 self-published App Store apps with 100,000+ organic downloads, including Code Reader, a privacy-focused QR and barcode scanner I've maintained for almost ten years.
 
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white">
