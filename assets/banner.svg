@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111e32"/>
+      <stop offset="1" stop-color="#182c40"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#47b9c0" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#47b9c0" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="1280" height="300" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="300" rx="24" fill="url(#card)"/>
+    <ellipse cx="1090" cy="120" rx="390" ry="310" fill="url(#glow)"/>
+    <g fill="none" stroke="#79b7cc" stroke-width="1.5" opacity=".18">
+      <path d="M900 0v50l62 40h112l68 58h138M962 90v93l73 52h129l70 65M1074 90V35l49-35M1142 148v-45l79-48h59M1035 235v65M900 50h-62l-40-50"/>
+      <path d="M986 0v33l55 31h99l58 40h82M1098 300v-36l73-49h109" stroke-dasharray="4 8"/>
+    </g>
+    <g fill="#223e50" stroke="#70b8c6" stroke-width="1.5" opacity=".65">
+      <circle cx="962" cy="90" r="6"/><circle cx="1074" cy="90" r="5"/>
+      <circle cx="1142" cy="148" r="7"/><circle cx="1035" cy="235" r="5"/>
+      <circle cx="1164" cy="235" r="5"/><circle cx="900" cy="50" r="4"/>
+    </g>
+    <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <rect x="64" y="61" width="28" height="4" rx="2" fill="#79d6cb"/>
+      <text x="64" y="143" fill="#f3f7fc" font-size="52" font-weight="700" letter-spacing="-1.5">Daniel Illescas Romero</text>
+      <text x="66" y="190" fill="#bfcedd" font-size="23" font-weight="400">Senior Software Engineer · iOS · Python · AI agent tooling</text>
+    </g>
+    <rect x=".75" y=".75" width="1278.5" height="298.5" rx="23.25" fill="none" stroke="#607e97" stroke-opacity=".25" stroke-width="1.5"/>
+  </g>
+</svg>
