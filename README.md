@@ -2,6 +2,12 @@
   <img src="assets/banner.svg" alt="Daniel Illescas Romero — Senior Software Engineer · iOS · Python · AI agent tooling" width="100%">
 </p>
 
+<!-- Each SVG is an editable, independently linked navigation tile. -->
+<p align="center">
+  <a href="https://github.com/illescasDaniel?tab=repositories"><img src="assets/navigation/projects.svg" width="49%" alt="Projects — browse my repositories"></a><a href="#agent-skills"><img src="assets/navigation/skills.svg" width="49%" alt="Agent Skills — explore reusable skills"></a><br>
+  <a href="https://www.daniel-ir.eu/"><img src="assets/navigation/website.svg" width="49%" alt="Website — more about me"></a><a href="https://www.daniel-ir.eu/blog"><img src="assets/navigation/blog.svg" width="49%" alt="Blog — ideas and stories"></a>
+</p>
+
 ## 👋 About me
 
 I'm a native mobile and backend developer from Madrid with nearly a decade of experience building frictionless, user-centric software. My day job is iOS (Swift, SwiftUI, UIKit, Clean/Hexagonal architectures, heavy on testing and CI/CD), and I'm just as comfortable owning the server side with Python and FastAPI. I hold a Master's degree in Artificial Intelligence, and lately most of my open-source time goes into tooling that makes coding agents more reliable: project memory, documentation, spec-driven workflows and code-navigation MCP servers. I've also shipped 4 self-published App Store apps with 100,000+ organic downloads, including Code Reader, a privacy-focused QR and barcode scanner I've maintained for almost ten years.
@@ -17,6 +23,8 @@ I'm a native mobile and backend developer from Madrid with nearly a decade of ex
 </p>
 
 ---
+
+<a id="agent-skills"></a>
 
 ## <img src="assets/icon-skills.svg" width="28" align="center" alt=""> Agent Skills
 
@@ -45,6 +53,7 @@ Compiler-accurate code navigation for agents, so they find symbols and reference
 
 ## <img src="assets/icon-python.svg" width="28" align="center" alt=""> Python projects
 
+- [**wdict**](https://github.com/illescasDaniel/wdict): a desktop dictionary built with Go, Wails and SvelteKit, with online and offline lookups.
 - [**agentic-loadout**](https://github.com/illescasDaniel/agentic-loadout): one command that gives a project a coding-agent setup for Claude Code, Cursor and Codex.
 - [**srxy**](https://github.com/illescasDaniel/srxy): smart, composable search for Python and your filesystem. A privacy-focused local engine (GUI and CLI) for conceptual search over documents, images, audio and video, with a plugin architecture.
 - [**SpaceMaker**](https://github.com/illescasDaniel/SpaceMaker): a desktop app to transfer files from your phone to your PC, with media compression and a gallery.
