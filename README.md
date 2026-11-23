@@ -32,9 +32,8 @@ Reusable skills for coding agents (Claude Code, Cursor, Codex), each in its own 
 
 <!-- Repository cards are individually editable SVGs. -->
 <p>
-  <a href="https://github.com/illescasDaniel/memory-1-skill"><img src="assets/repositories/memory-1.svg" width="750" alt="memory-1 — Long-term project memory in Markdown: status, dated notes and a session archive. No service or database."></a>
-  <a href="https://github.com/illescasDaniel/docs-1-skill"><img src="assets/repositories/docs-1.svg" width="750" alt="docs-1 — Documentation agents can navigate and trust: stable IDs, a generated index and stale-document checks."></a>
-  <a href="https://github.com/illescasDaniel/sdd-html-feature-skill"><img src="assets/repositories/sdd-html.svg" width="750" alt="sdd-html — Visual spec-driven development: approval gates, QA and an independent grade in one offline HTML page per feature."></a>
+  <a href="https://github.com/illescasDaniel/memory-1-skill"><img src="assets/repositories/memory-1.svg" width="49%" alt="memory-1 — Long-term project memory in Markdown: status, dated notes and a session archive. No service or database."></a><a href="https://github.com/illescasDaniel/docs-1-skill"><img src="assets/repositories/docs-1.svg" width="49%" alt="docs-1 — Documentation agents can navigate and trust: stable IDs, a generated index and stale-document checks."></a><br>
+  <a href="https://github.com/illescasDaniel/sdd-html-feature-skill"><img src="assets/repositories/sdd-html.svg" width="49%" alt="sdd-html — Visual spec-driven development: approval gates, QA and an independent grade in one offline HTML page per feature."></a>
 </p>
 
 ---
@@ -44,10 +43,8 @@ Reusable skills for coding agents (Claude Code, Cursor, Codex), each in its own 
 Compiler-accurate code navigation for agents, so they find symbols and references instead of grepping.
 
 <p>
-  <a href="https://github.com/illescasDaniel/codenav-mcp"><img src="assets/repositories/codenav-mcp.svg" width="750" alt="codenav-mcp — Python navigation backed by ty: hover, definition, references, workspace symbols and diagnostics."></a>
-  <a href="https://github.com/illescasDaniel/webnav-ts-mcp"><img src="assets/repositories/webnav-ts-mcp.svg" width="750" alt="webnav-ts-mcp — JavaScript, TypeScript, HTML and CSS navigation using the TypeScript language service and a cross-file CSS variable and selector index."></a>
-  <a href="https://github.com/illescasDaniel/codenav-swift-mcp"><img src="assets/repositories/codenav-swift-mcp.svg" width="750" alt="codenav-swift-mcp — Compiler-accurate navigation for Swift codebases."></a>
-  <a href="https://github.com/illescasDaniel/codenav-go-mcp"><img src="assets/repositories/codenav-go-mcp.svg" width="750" alt="codenav-go-mcp — Go navigation backed by gopls, with type-resolved navigation and safe, previewable edits."></a>
+  <a href="https://github.com/illescasDaniel/codenav-mcp"><img src="assets/repositories/codenav-mcp.svg" width="49%" alt="codenav-mcp — Python navigation backed by ty: hover, definition, references, workspace symbols and diagnostics."></a><a href="https://github.com/illescasDaniel/webnav-ts-mcp"><img src="assets/repositories/webnav-ts-mcp.svg" width="49%" alt="webnav-ts-mcp — JavaScript, TypeScript, HTML and CSS navigation using the TypeScript language service and a cross-file CSS variable and selector index."></a><br>
+  <a href="https://github.com/illescasDaniel/codenav-swift-mcp"><img src="assets/repositories/codenav-swift-mcp.svg" width="49%" alt="codenav-swift-mcp — Compiler-accurate navigation for Swift codebases."></a><a href="https://github.com/illescasDaniel/codenav-go-mcp"><img src="assets/repositories/codenav-go-mcp.svg" width="49%" alt="codenav-go-mcp — Go navigation backed by gopls, with type-resolved navigation and safe, previewable edits."></a>
 </p>
 
 ---
@@ -55,10 +52,8 @@ Compiler-accurate code navigation for agents, so they find symbols and reference
 ## <img src="assets/icon-python.svg" width="28" align="center" alt=""> Python projects
 
 <p>
-  <a href="https://github.com/illescasDaniel/wdict"><img src="assets/repositories/wdict.svg" width="750" alt="wdict — Desktop dictionary built with Go, Wails and SvelteKit, with online and offline lookups."></a>
-  <a href="https://github.com/illescasDaniel/agentic-loadout"><img src="assets/repositories/agentic-loadout.svg" width="750" alt="agentic-loadout — One command to set up Claude Code, Cursor and Codex for a project."></a>
-  <a href="https://github.com/illescasDaniel/srxy"><img src="assets/repositories/srxy.svg" width="750" alt="srxy — Private local search across documents, images, audio and video, with a GUI, CLI and plugin architecture."></a>
-  <a href="https://github.com/illescasDaniel/SpaceMaker"><img src="assets/repositories/spacemaker.svg" width="750" alt="SpaceMaker — Transfer files from phone to PC, with media compression and a gallery."></a>
+  <a href="https://github.com/illescasDaniel/wdict"><img src="assets/repositories/wdict.svg" width="49%" alt="wdict — Desktop dictionary built with Go, Wails and SvelteKit, with online and offline lookups."></a><a href="https://github.com/illescasDaniel/agentic-loadout"><img src="assets/repositories/agentic-loadout.svg" width="49%" alt="agentic-loadout — One command to set up Claude Code, Cursor and Codex for a project."></a><br>
+  <a href="https://github.com/illescasDaniel/srxy"><img src="assets/repositories/srxy.svg" width="49%" alt="srxy — Private local search across documents, images, audio and video, with a GUI, CLI and plugin architecture."></a><a href="https://github.com/illescasDaniel/SpaceMaker"><img src="assets/repositories/spacemaker.svg" width="49%" alt="SpaceMaker — Transfer files from phone to PC, with media compression and a gallery."></a>
 </p>
 
 ---
@@ -66,11 +61,9 @@ Compiler-accurate code navigation for agents, so they find symbols and reference
 ## <img src="assets/icon-ios.svg" width="28" align="center" alt=""> iOS projects
 
 <p>
-  <a href="https://github.com/illescasDaniel/GamesLibrary-sample-app"><img src="assets/repositories/gameslibrary.svg" width="750" alt="GamesLibrary — AI-ready SwiftUI sample app using hexagonal architecture, MVVM and spec-driven development."></a>
-  <a href="https://github.com/illescasDaniel/SwiftBeans"><img src="assets/repositories/swiftbeans.svg" width="750" alt="SwiftBeans — Spring-style dependency injection wired at compile time by a build tool plugin."></a>
-  <a href="https://github.com/illescasDaniel/astk"><img src="assets/repositories/astk.svg" width="750" alt="ASTK — AsyncSharedTestingKit: shared-process UI testing with async page objects, so XCUITest launches the app once."></a>
-  <a href="https://github.com/illescasDaniel/TTLCache"><img src="assets/repositories/ttlcache.svg" width="750" alt="TTLCache — Actor-based in-memory cache with automatic TTL expiry."></a>
-  <a href="https://github.com/illescasDaniel/Questions"><img src="assets/repositories/questions.svg" width="750" alt="Questions — Modular iOS quiz app and my most-starred project."></a>
+  <a href="https://github.com/illescasDaniel/GamesLibrary-sample-app"><img src="assets/repositories/gameslibrary.svg" width="49%" alt="GamesLibrary — AI-ready SwiftUI sample app using hexagonal architecture, MVVM and spec-driven development."></a><a href="https://github.com/illescasDaniel/SwiftBeans"><img src="assets/repositories/swiftbeans.svg" width="49%" alt="SwiftBeans — Spring-style dependency injection wired at compile time by a build tool plugin."></a><br>
+  <a href="https://github.com/illescasDaniel/astk"><img src="assets/repositories/astk.svg" width="49%" alt="ASTK — AsyncSharedTestingKit: shared-process UI testing with async page objects, so XCUITest launches the app once."></a><a href="https://github.com/illescasDaniel/TTLCache"><img src="assets/repositories/ttlcache.svg" width="49%" alt="TTLCache — Actor-based in-memory cache with automatic TTL expiry."></a><br>
+  <a href="https://github.com/illescasDaniel/Questions"><img src="assets/repositories/questions.svg" width="49%" alt="Questions — Modular iOS quiz app and my most-starred project."></a>
 </p>
 
 ---
