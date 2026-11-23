@@ -30,11 +30,12 @@ I'm a native mobile and backend developer from Madrid with nearly a decade of ex
 
 Reusable skills for coding agents (Claude Code, Cursor, Codex), each in its own repo with install instructions.
 
-| Skill | What it does |
-|---|---|
-| [**memory-1**](https://github.com/illescasDaniel/memory-1-skill) | Long-term project memory as plain Markdown: a status file, dated one-fact notes with supersession, and a session archive. No service or database. |
-| [**docs-1**](https://github.com/illescasDaniel/docs-1-skill) | Documentation agents can navigate and trust: stable doc IDs, a generated index, and stale-doc checks. |
-| [**sdd-html**](https://github.com/illescasDaniel/sdd-html-feature-skill) | Visual Spec-Driven Development: design, spec and architecture approval gates, QA and an independent grade in one offline tabbed HTML page per feature. |
+<!-- Repository cards are individually editable SVGs. -->
+<p>
+  <a href="https://github.com/illescasDaniel/memory-1-skill"><img src="assets/repositories/memory-1.svg" width="100%" alt="memory-1 — Long-term project memory in Markdown: status, dated notes and a session archive. No service or database."></a>
+  <a href="https://github.com/illescasDaniel/docs-1-skill"><img src="assets/repositories/docs-1.svg" width="100%" alt="docs-1 — Documentation agents can navigate and trust: stable IDs, a generated index and stale-document checks."></a>
+  <a href="https://github.com/illescasDaniel/sdd-html-feature-skill"><img src="assets/repositories/sdd-html.svg" width="100%" alt="sdd-html — Visual spec-driven development: approval gates, QA and an independent grade in one offline HTML page per feature."></a>
+</p>
 
 ---
 
@@ -42,31 +43,35 @@ Reusable skills for coding agents (Claude Code, Cursor, Codex), each in its own 
 
 Compiler-accurate code navigation for agents, so they find symbols and references instead of grepping.
 
-| Server | Language | Backed by |
-|---|---|---|
-| [**codenav-mcp**](https://github.com/illescasDaniel/codenav-mcp) | Python | [ty](https://github.com/astral-sh/ty): hover, definition, references, workspace symbols, diagnostics |
-| [**webnav-ts-mcp**](https://github.com/illescasDaniel/webnav-ts-mcp) | JS / TS / HTML / CSS | TypeScript language service plus a cross-file CSS variable and selector index |
-| [**codenav-swift-mcp**](https://github.com/illescasDaniel/codenav-swift-mcp) | Swift | Compiler-accurate navigation for Swift codebases |
-| [**codenav-go-mcp**](https://github.com/illescasDaniel/codenav-go-mcp) | Go | `gopls`: type-resolved navigation and safe, previewable edits |
+<p>
+  <a href="https://github.com/illescasDaniel/codenav-mcp"><img src="assets/repositories/codenav-mcp.svg" width="100%" alt="codenav-mcp — Python navigation backed by ty: hover, definition, references, workspace symbols and diagnostics."></a>
+  <a href="https://github.com/illescasDaniel/webnav-ts-mcp"><img src="assets/repositories/webnav-ts-mcp.svg" width="100%" alt="webnav-ts-mcp — JavaScript, TypeScript, HTML and CSS navigation using the TypeScript language service and a cross-file CSS variable and selector index."></a>
+  <a href="https://github.com/illescasDaniel/codenav-swift-mcp"><img src="assets/repositories/codenav-swift-mcp.svg" width="100%" alt="codenav-swift-mcp — Compiler-accurate navigation for Swift codebases."></a>
+  <a href="https://github.com/illescasDaniel/codenav-go-mcp"><img src="assets/repositories/codenav-go-mcp.svg" width="100%" alt="codenav-go-mcp — Go navigation backed by gopls, with type-resolved navigation and safe, previewable edits."></a>
+</p>
 
 ---
 
 ## <img src="assets/icon-python.svg" width="28" align="center" alt=""> Python projects
 
-- [**wdict**](https://github.com/illescasDaniel/wdict): a desktop dictionary built with Go, Wails and SvelteKit, with online and offline lookups.
-- [**agentic-loadout**](https://github.com/illescasDaniel/agentic-loadout): one command that gives a project a coding-agent setup for Claude Code, Cursor and Codex.
-- [**srxy**](https://github.com/illescasDaniel/srxy): smart, composable search for Python and your filesystem. A privacy-focused local engine (GUI and CLI) for conceptual search over documents, images, audio and video, with a plugin architecture.
-- [**SpaceMaker**](https://github.com/illescasDaniel/SpaceMaker): a desktop app to transfer files from your phone to your PC, with media compression and a gallery.
+<p>
+  <a href="https://github.com/illescasDaniel/wdict"><img src="assets/repositories/wdict.svg" width="100%" alt="wdict — Desktop dictionary built with Go, Wails and SvelteKit, with online and offline lookups."></a>
+  <a href="https://github.com/illescasDaniel/agentic-loadout"><img src="assets/repositories/agentic-loadout.svg" width="100%" alt="agentic-loadout — One command to set up Claude Code, Cursor and Codex for a project."></a>
+  <a href="https://github.com/illescasDaniel/srxy"><img src="assets/repositories/srxy.svg" width="100%" alt="srxy — Private local search across documents, images, audio and video, with a GUI, CLI and plugin architecture."></a>
+  <a href="https://github.com/illescasDaniel/SpaceMaker"><img src="assets/repositories/spacemaker.svg" width="100%" alt="SpaceMaker — Transfer files from phone to PC, with media compression and a gallery."></a>
+</p>
 
 ---
 
 ## <img src="assets/icon-ios.svg" width="28" align="center" alt=""> iOS projects
 
-- [**GamesLibrary**](https://github.com/illescasDaniel/GamesLibrary-sample-app): an AI-ready SwiftUI sample app using hexagonal architecture, MVVM and spec-driven development.
-- [**SwiftBeans**](https://github.com/illescasDaniel/SwiftBeans): Spring-style dependency injection for Swift, wired at compile time by a build tool plugin.
-- [**ASTK**](https://github.com/illescasDaniel/astk): AsyncSharedTestingKit, shared-process UI testing with async page objects, so XCUITest launches the app once.
-- [**TTLCache**](https://github.com/illescasDaniel/TTLCache): an actor-based in-memory cache for Swift with automatic TTL expiry.
-- [**Questions**](https://github.com/illescasDaniel/Questions): a modular iOS quiz app (my most-starred project).
+<p>
+  <a href="https://github.com/illescasDaniel/GamesLibrary-sample-app"><img src="assets/repositories/gameslibrary.svg" width="100%" alt="GamesLibrary — AI-ready SwiftUI sample app using hexagonal architecture, MVVM and spec-driven development."></a>
+  <a href="https://github.com/illescasDaniel/SwiftBeans"><img src="assets/repositories/swiftbeans.svg" width="100%" alt="SwiftBeans — Spring-style dependency injection wired at compile time by a build tool plugin."></a>
+  <a href="https://github.com/illescasDaniel/astk"><img src="assets/repositories/astk.svg" width="100%" alt="ASTK — AsyncSharedTestingKit: shared-process UI testing with async page objects, so XCUITest launches the app once."></a>
+  <a href="https://github.com/illescasDaniel/TTLCache"><img src="assets/repositories/ttlcache.svg" width="100%" alt="TTLCache — Actor-based in-memory cache with automatic TTL expiry."></a>
+  <a href="https://github.com/illescasDaniel/Questions"><img src="assets/repositories/questions.svg" width="100%" alt="Questions — Modular iOS quiz app and my most-starred project."></a>
+</p>
 
 ---
 
