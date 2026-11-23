@@ -3,10 +3,10 @@
   <rect x=".75" y=".75" width="798.5" height="118.5" rx="12" fill="url(#surface)" stroke="#54758b" stroke-opacity=".4" stroke-width="1.5"/>
   <path d="M1 20Q1 1 20 1H23V119H20Q1 119 1 100Z" fill="#e7b978" fill-opacity=".8"/>
   <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="30" y="34" fill="#f3f7fc" font-size="23" font-weight="700">srxy</text>
-    <text x="30" y="57" fill="#e7b978" font-size="11" font-weight="700" letter-spacing="1.3">PYTHON</text>
-    <text x="30" y="82" fill="#b9cbd9" font-size="17">Private local search across documents, images, audio and</text>
-    <text x="30" y="103" fill="#b9cbd9" font-size="17">video, with a GUI, CLI and plugin architecture.</text>
+    <text x="30" y="34" fill="#f3f7fc" font-size="20" font-weight="700">srxy</text>
+    <text x="30" y="57" fill="#e7b978" font-size="10" font-weight="700" letter-spacing="1.3">PYTHON</text>
+    <text x="30" y="82" fill="#b9cbd9" font-size="15">Private local search across documents, images, audio and</text>
+    <text x="30" y="103" fill="#b9cbd9" font-size="15">video, with a GUI, CLI and plugin architecture.</text>
     <text x="766" y="39" fill="#e7b978" font-size="25" text-anchor="middle">↗</text>
   </g>
 </svg>
