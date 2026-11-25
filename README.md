@@ -33,7 +33,7 @@ Reusable skills for coding agents (Claude Code, Cursor, Codex), each in its own 
 <!-- Repository cards are individually editable SVGs. -->
 <p>
   <a href="https://github.com/illescasDaniel/memory-1-skill"><img src="assets/repositories/memory-1.svg" width="49%" alt="memory-1 — Long-term project memory in Markdown: status, dated notes and a session archive. No service or database."></a><a href="https://github.com/illescasDaniel/docs-1-skill"><img src="assets/repositories/docs-1.svg" width="49%" alt="docs-1 — Documentation agents can navigate and trust: stable IDs, a generated index and stale-document checks."></a><br>
-  <a href="https://github.com/illescasDaniel/sdd-html-feature-skill"><img src="assets/repositories/sdd-html.svg" width="49%" alt="sdd-html — Visual spec-driven development: approval gates, QA and an independent grade in one offline HTML page per feature."></a>
+  <a href="https://github.com/illescasDaniel/sdd-html-feature-skill"><img src="assets/repositories/sdd-html.svg" width="49%" alt="sdd-html — Visual spec-driven development: approval gates, QA and an independent grade in one offline HTML page per feature."></a><a href="https://github.com/illescasDaniel/blackbox-qa-skill"><img src="assets/repositories/blackbox-qa.svg" width="49%" alt="blackbox-qa — Black-box testing on real projects with independently verified bug reports."></a>
 </p>
 
 ---
